@@ -1,0 +1,30 @@
+---
+title: "Leaf area standardized protocol"
+format: html
+editor: visual
+author: Nadine Arzt
+date: last-modified
+---
+
+## Standardized protocol to calculate leaf area
+
+This is an addition to the PFTC teaching material: <https://plant-functional-trait-course.github.io/PFTC_teaching_material/5_trait_collection.html>
+
+#### 1. Scan the leaf
+
+Clean the scanner surface to avoid debris in the scan and place the leaf upside down on the scanner.
+
+Scanner settings:
+
+-   *Type: JPEG*
+
+-   *Color*
+
+-   *Full color range*
+
+-   *300dpi*
+
+```{r}
+#| echo: false
+2 * 2
+```
